@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**OnurSessiz/OnurSessiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Onur 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science student focused on improving my Java and backend development skills by building real-world projects.
+
+## 🧠 Current Focus
+
+* Java fundamentals & clean code
+* Data structures (ArrayList, Collections)
+* Minecraft plugin development
+
+## 🛠️ Projects
+
+* 🎮 Minecraft Economy Plugin (in progress)
+* 👤 Player Management System
+* 📚 Java Practice & Notes
+
+## 📈 Goals
+
+* Build scalable backend systems
+* Develop advanced Minecraft plugins
+* Start working on real-world freelance projects
+
+## ⚡ Approach
+
+I focus on building practical and usable systems instead of just following tutorials.
